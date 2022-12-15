@@ -1,1 +1,31 @@
-La pagina principal (borrar luego)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="Estilos_webNavidad.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio</title>
+    
+</head>
+<body>
+    <div class="cabecera">
+       <br><h1>Croquetas de jamón</h1><br>
+        <h2>Esto es una receta casera para hacer unas croquetas cremosas y con auténtico sabor a jamón.</h2><br>
+    </div>
+
+    <div class="topnav">
+        <a href="./index.html">Inicio</a>
+        <a href="./contacto.html">Contacto</a>
+        <a href="./ingredientes.html">Ingredientes</a>  
+        <a href="./pasos.html">Pasos</a>
+    </div>
+
+    <div class="fondo">
+        <br><br><br>
+        <img src="../img/Croquetas-de-jamon-miniatura.jpg" alt="Croquetas de jamón">
+        <h3>Si se sigues los pasos pueden quedar así de bien</h3><br><br>
+    </div>
+
+</body>
+</html>
