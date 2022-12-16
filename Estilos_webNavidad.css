@@ -24,7 +24,7 @@ div.cabecera {
 
 .topnav {
     overflow: hidden;
-    background-color: red;
+    background-color: rgb(193, 0, 0);
     position: -webkit-sticky;
     position: sticky;
     top: 0;
@@ -56,7 +56,7 @@ form {
 
 a:link,
 a:visited {
-	color: darkgrey;
+	color: whitesmoke;
 	font-weight: bold;
 }
 a:hover {
